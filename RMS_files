@@ -1,0 +1,7 @@
+Backend/Controllers/ApartmentsController.cs
+Backend/Models/Apartment.cs
+Backend/Data/AppDbContext.cs
+Frontend/src/pages/Home.jsx
+Frontend/src/api/client.js
+Database/RMS_Database.sql
+Screenshots/dashboard.png
