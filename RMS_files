@@ -1,7 +1,10 @@
-Backend/Controllers/ApartmentsController.cs
-Backend/Models/Apartment.cs
-Backend/Data/AppDbContext.cs
-Frontend/src/pages/Home.jsx
-Frontend/src/api/client.js
-Database/RMS_Database.sql
-Screenshots/dashboard.png
+C:\Users\cxc\OneDrive\Desktop\visual studio projects\MyPRojectApi\RentalProRMS_Website_Working_Fixed\backend\RentalProRMS.Api\Controllers
+C:\Users\cxc\OneDrive\Desktop\visual studio projects\MyPRojectApi\RentalProRMS_Website_Working_Fixed\backend\RentalProRMS.Api\Data
+C:\Users\cxc\OneDrive\Desktop\visual studio projects\MyPRojectApi\RentalProRMS_Website_Working_Fixed\backend\RentalProRMS.Api\Models
+C:\Users\cxc\OneDrive\Desktop\visual studio projects\MyPRojectApi\RentalProRMS_Website_Working_Fixed
+C:\Users\cxc\OneDrive\Desktop\visual studio projects\MyPRojectApi\RentalProRMS_Website_Working_Fixed\frontend\src
+C:\Users\cxc\OneDrive\Desktop\visual studio projects\MyPRojectApi\RentalProRMS_Website_Working_Fixed\frontend\src\api
+C:\Users\cxc\OneDrive\Desktop\visual studio projects\MyPRojectApi\RentalProRMS_Website_Working_Fixed\frontend\src\components
+C:\Users\cxc\OneDrive\Desktop\visual studio projects\MyPRojectApi\RentalProRMS_Website_Working_Fixed\frontend\src\context
+C:\Users\cxc\OneDrive\Desktop\visual studio projects\MyPRojectApi\RentalProRMS_Website_Working_Fixed\frontend\src\hooks
+C:\Users\cxc\OneDrive\Desktop\visual studio projects\MyPRojectApi\RentalProRMS_Website_Working_Fixed\frontend\src\pages
